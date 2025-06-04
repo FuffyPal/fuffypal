@@ -10,7 +10,7 @@
 
 ## 🔭 Şu Anda Ne Üzerinde Çalışıyorum?
 
-- Rust ile geliştirdiğim bir proje üzerinde yoğunlaşıyorum. 🦀
+- Python ile geliştirdiğim bir proje üzerinde yoğunlaşıyorum. 🐍
 
 ## 🌱 Yakın Zamanda Öğrenmeyi Umuyorum:
 
