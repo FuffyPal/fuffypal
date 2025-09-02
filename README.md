@@ -1,10 +1,10 @@
 
-# 👋 Merhaba! Ben little-file <img src="https://media.giphy.com/media/9Ui6Cd0gtKUKs/giphy.gif?cid=ecf05e47v9r9hi14s7msh2mz3icfhzlm5735848s7vuby0e0&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="40px">
+# 👋 Merhaba! Ben fluffypal <img src="https://media.giphy.com/media/9Ui6Cd0gtKUKs/giphy.gif?cid=ecf05e47v9r9hi14s7msh2mz3icfhzlm5735848s7vuby0e0&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="40px">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=little-file&show_icons=true&theme=dark)](https://github.com/little-file)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=little-file&layout=compact&theme=dark)](https://github.com/little-file)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fuffypal&show_icons=true&theme=dark)](https://github.com/fuffypal)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fuffypal&layout=compact&theme=dark)](https://github.com/fuffypal)
 [![roadmap.sh](https://roadmap.sh/card/tall/67dfffbb834203166018a776?variant=dark)](https://roadmap.sh)
-![Ziyaretçi Sayacı](https://komarev.com/ghpvc/?username=little-file&label=Profile%20views&color=0e75b6&style=flat)
+![Ziyaretçi Sayacı](https://komarev.com/ghpvc/?username=fuffypal&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
