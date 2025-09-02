@@ -3,8 +3,6 @@
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fuffypal&show_icons=true&theme=dark)](https://github.com/fuffypal)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fuffypal&layout=compact&theme=dark)](https://github.com/fuffypal)
-[![roadmap.sh](https://roadmap.sh/card/tall/67dfffbb834203166018a776?variant=dark)](https://roadmap.sh)
-![Ziyaretçi Sayacı](https://komarev.com/ghpvc/?username=fuffypal&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
