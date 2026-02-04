@@ -1,0 +1,28 @@
+name: Update My Magical Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate Stats Card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=fuffypal&show_icons=true&theme=dracula&hide_border=true&title_color=BD93F9&icon_color=FF79C6
+          path: stats.svg
+          token: ${{ secrets.GH_TOKEN }}
+
+      - name: Commit and Push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add stats.svg
+          git commit -m "Magic: Updated my stats card" || exit 0
+          git push
