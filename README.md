@@ -32,14 +32,12 @@
 - 🛠 **Tools:** Polyglot mindset—if I need it, I master it.
 
 ---
-
 ### 🪄 My Magic Mirror (Stats)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[KULLANICI_ADIN]&show_icons=true&theme=dracula&hide_border=true&title_color=BD93F9&icon_color=FF79C6" alt="FluffyStats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[KULLANICI_ADIN]&layout=compact&theme=dracula&hide_border=true&title_color=BD93F9" alt="TopLangs" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fuffypal&show_icons=true&theme=dracula&hide_border=true&title_color=BD93F9&icon_color=FF79C6" alt="FluffyStats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuffypal&layout=compact&theme=dracula&hide_border=true&title_color=BD93F9" alt="TopLangs" height="150" />
 </p>
-
 ---
 
 ### 🎵 Curating Vibes...
